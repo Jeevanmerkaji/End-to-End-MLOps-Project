@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: cnnClassifier
+Version: 0.0.0
+Summary: A small python package for CNN app
+Home-page: https://github.com/Jeevanmerkaji/End-to-End-MLOps-Project
+Author: Jeevanmerkaji
+Author-email: jeevanms18@gmail.com
+License: UNKNOWN
+Project-URL: Bug Tracker, https://github.com/Jeevanmerkaji/End-to-End-MLOps-Project/issues
+Platform: UNKNOWN
+License-File: LICENSE
+
+# End-to-End-MLOps-Project
+End To End Deep Learning Project Using MLOPS DVC Pipeline With Deployments Azure And AWS
+
+
